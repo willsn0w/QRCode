@@ -1922,8 +1922,8 @@ body {
   }
 }
 .cid-rIZZLcYNCy {
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
@@ -1990,5 +1990,8 @@ body {
   }
 }
 .cid-rIZZLcYNCy P {
+  text-align: left;
+}
+.cid-rIZZLcYNCy H5 {
   text-align: left;
 }
